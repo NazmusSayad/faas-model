@@ -7,7 +7,7 @@
 	"peerDependencies": {
 		"mongoose": "*"
 	},
-	"name": "faas-mongoose",
+	"name": "faas-model",
 	"version": "0.0.0",
 	"scripts": {
 		"dev": "npm-ez dev",
