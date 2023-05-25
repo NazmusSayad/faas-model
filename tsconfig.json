@@ -7,7 +7,7 @@
 		"strict": true,
 		"pretty": true,
 		"removeComments": true,
-    "moduleResolution": "nodenext"
+		"moduleResolution": "nodenext"
 	},
 	"include": [
 		"src"
